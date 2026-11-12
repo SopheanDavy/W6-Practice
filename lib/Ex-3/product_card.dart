@@ -49,7 +49,7 @@ class ProductCard extends StatelessWidget {
                     product.description,
                     style: const TextStyle(
                       fontSize: 13,
-                      color: Colors.blue,
+                      color: Colors.black,
                     ),
                   ),
                 ],
